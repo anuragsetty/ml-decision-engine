@@ -155,17 +155,4 @@ Configuration lives in `pyproject.toml`.
 * SageMaker migration guide: `docs/sagemaker_migration.md`
 * SageMaker starter scripts: `sagemaker/README.md`
 
-## GitHub Profile Metadata
 
-**Suggested repository description**
-
-Production-style ML decision engine with modular pipeline design, reproducible simulation, baseline modeling, testing, and governance artifacts.
-
-**Suggested repository topics**
-
-`machine-learning`, `mlops`, `decision-engine`, `feature-engineering`, `classification`, `python`, `data-science`, `model-governance`, `reproducibility`, `portfolio-project`
-
-**Suggested profile blurb (2 lines)**
-
-Physics PhD and senior data scientist with 10+ years building production ML systems.  
-Focused on rigorous modeling, reproducible pipelines, and decision intelligence at scale.
