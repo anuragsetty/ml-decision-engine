@@ -6,7 +6,7 @@ A clean, end-to-end machine learning system for decision intelligence using simu
 
 ## Executive Summary
 
-This repository is designed as a portfolio-grade ML systems project for a senior practitioner background (Physics PhD, 10+ years in data science). It emphasizes the engineering discipline expected in production ML teams: modular architecture, reproducibility, testing, and lightweight governance.
+This repository is designed as a portfolio-grade ML systems project. It emphasizes the engineering discipline expected in production ML teams: modular architecture, reproducibility, testing, and lightweight governance.
 
 **What reviewers should notice quickly:**
 
